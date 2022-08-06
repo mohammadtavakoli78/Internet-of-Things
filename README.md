@@ -25,6 +25,12 @@ At this Homework, There are six implementation and we get to arduino and proteus
 [Sixth Implementation](https://github.com/mohammadtavakoli78/Internet-of-Things/tree/master/HW1/11.%20smart%20greenhouse) is managing a smart conservatory.<br>
 
 ## 💻 Second Homework
+At this Homework, There are five implementation and we get acquainted to zigbee and blynk which is for managing application.<br>
+[First Implementation](https://github.com/mohammadtavakoli78/Internet-of-Things/tree/master/HW2/06.%20Hello_Zigbee) is transferring data between two boards through Zigbee protocol.<br>
+[Second Implementation](https://github.com/mohammadtavakoli78/Internet-of-Things/tree/master/HW2/07.%20Parking_door) is managing an smart parking by ```Zigbee``` protocol.<br>
+[Third Implementation](https://github.com/mohammadtavakoli78/Internet-of-Things/tree/master/HW2/08.%20Alarm) is manageing an alarm app by ```Zigbee``` protocol.<br>
+[Fourth Implementation](https://github.com/mohammadtavakoli78/Internet-of-Things/tree/master/HW2/09.%20Smart_home) is managing a smart house in the application site with ```blynk```.<br>
+[Fifth Implementation](https://github.com/mohammadtavakoli78/Internet-of-Things/tree/master/HW2/10.%20Security_system) is managing a security device in the application site with ```blynk```.<br>
 
 ## 💻 Third Homework
 
