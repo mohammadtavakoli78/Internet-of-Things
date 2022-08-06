@@ -33,6 +33,7 @@ At this Homework, There are five implementation and we get acquainted to ```Zigb
 [Fifth Implementation](https://github.com/mohammadtavakoli78/Internet-of-Things/tree/master/HW2/10.%20Security_system) is managing a ```smart security device``` in the application site with ```blynk```.<br>
 
 ## 💻 Third Homework
+Answer of this homework is in this [link](https://github.com/mohammadtavakoli78/Internet-of-Things/blob/master/HW3/HW3_9731014.pdf).
 
 ## 💻 Fourth Homework
 
